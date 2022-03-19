@@ -22,3 +22,13 @@ But none of that was as much fun for me as learning and working as a front end d
 My goal is to become a professional front end developer. That's why I'm studying at the **RS school**
 
 ---
+
+### _I'm working on skills_
+
+* HTML
+* CSS
+* JavaScript
+* Angular
+* Git/GitHub
+
+---
